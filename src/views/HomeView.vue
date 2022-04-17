@@ -60,9 +60,9 @@ export default {
   data() {
     return {
       imgs: [
-        "src/images/blackberry.png",
-        "src/images/orange.png",
-        "src/images/mango.png"],
+        "/healthy/assets/blackberry.png",
+        "/healthy/assets/orange.png",
+        "/healthy/assets/mango.png"],
       index: 0,
       timer: null
     }
