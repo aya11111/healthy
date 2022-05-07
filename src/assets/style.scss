@@ -19,7 +19,9 @@ $black: #222;
 $white: #fff;
 $light-color: #666;
 $back-green: #e9fced;
-
+#app {
+    overflow-x: hidden;
+}
 html {
     scroll-behavior: smooth;
 }
