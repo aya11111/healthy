@@ -12,7 +12,7 @@
                 <h3>our blog</h3>
                 <a href="#">view all >></a>
             </div>
-            <div class="blogs" style="overflow-x: hidden">
+            <div class="blogs">
                 <div class="blog-item" data-aos="fade-right">
                     <div class="blog-image">
                         <img src="../images/blog-1.jpg" alt="blog image">

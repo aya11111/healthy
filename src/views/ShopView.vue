@@ -14,7 +14,7 @@
                     <h3>our category</h3>
                     <a href="#">view all >></a>
                 </div>
-                <div class="cat-products" style="overflow-x: hidden">
+                <div class="cat-products">
                     <div class="item" data-aos="fade-right">
                         <img src="../images/cat-1.png" alt="fruits">
                         <h4>fresh fruits</h4>
@@ -44,7 +44,7 @@
                     <h3>our products</h3>
                     <a href="#">view all >></a>
                 </div>
-        <div class="products" style="overflow-x: hidden">
+        <div class="products">
             
                 <div class="product-item" data-aos="fade-right"> 
                     <img src="../images/prod-1.png"> 

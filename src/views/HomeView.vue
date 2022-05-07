@@ -5,7 +5,7 @@
       <div class="overlay"></div>
       <div class="slides-container container">
         <div class="slide active">
-          <div class="slide-content" data-aos="fade-right" style="overflow-x: hidden">
+          <div class="slide-content" data-aos="fade-right">
             <span>fresh and organic</span>
             <h3>upTo 50% off</h3>
             <button>shop now</button>
@@ -21,7 +21,7 @@
   
     <section class="sales">
       <div class="container">
-        <div class="sales-item" data-aos="fade-right" style="overflow-x: hidden">
+        <div class="sales-item" data-aos="fade-right">
           <div class="sales-details">
             <span>limited sales</span>
             <h3>upto 50% off</h3>

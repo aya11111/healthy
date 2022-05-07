@@ -8,7 +8,7 @@
             </div>
         </div>
         <div class="container">
-            <div class="contact-details" style="overflow-x: hidden">
+            <div class="contact-details">
                 <div class="item" data-aos="fade-left">
                     <div class="icon"><fontAwesome icon="phone"/></div>
                     <h3>our number</h3>
@@ -27,7 +27,7 @@
                     <p>egypt cairo</p>
                 </div>
             </div>
-            <div class="contact-body" style="overflow-x: hidden">
+            <div class="contact-body">
                 <form action="" data-aos="fade-right">
                     <h3>get in touch</h3>
                     <input type="text" name="name" placeholder="your name">

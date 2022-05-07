@@ -8,7 +8,7 @@
                 </div>
             </div>
             <div class="container">
-                <div class="features" style="overflow-x: hidden">
+                <div class="features">
                     <div class="feature-item" data-aos="fade-left">
                         <div class="feature-icon">
                             <fontAwesome icon="plane"></fontAwesome>
@@ -38,7 +38,7 @@
                     </div>
                 </div>
 
-                <div class="clients" style="overflow-x: hidden">
+                <div class="clients">
                     <div class="client" data-aos="fade-left">
                         <div class ="image">
                             <img src="../images/client-1.jpg" alt="client">

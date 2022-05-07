@@ -8,7 +8,7 @@
             </div>
         </div>
         <div class="container">
-            <div class="ab" style="overflow-x: hidden">
+            <div class="ab">
                 <div class="about-img" data-aos="fade-left">
                     <img src="../images/about.png" alt="fruits">
                 </div>
@@ -24,7 +24,7 @@
                     <h3>our gallery</h3>
                     <a href="#">view all >></a>
             </div>
-            <div class="gallery" style="overflow-x: hidden">
+            <div class="gallery" >
                 <div class="image" data-aos="fade-right">
                     <img src="../images/gall-1.jpg" alt="fruits">
                     <div class="gall-overlay">
